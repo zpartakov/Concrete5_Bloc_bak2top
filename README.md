@@ -1,5 +1,5 @@
-bak2top, a block for Concrete5
-===================
+bak2top, a block for Concrete5.6
+================================
 
 ![logo bak2top](http://radeff.net/pics/bak2top.png)
 
@@ -17,9 +17,6 @@ bak2top, un block concrete5 pour afficher un retour dynamique au haut de la page
 
 Vous pouvez maintenant inclure ce bloc sur votre site; 
 si vous voulez l'avoir sur toutes les pages, ajoutez le dans une _GlobalArea_
-
-Démo sur le site de mon chalet: [radeff.net/ravieres2/](http://radeff.net/ravieres2/ "site des Ravières, chalet d'alpage")
-
 -------------
 English:
 
@@ -35,8 +32,6 @@ bak2top, a block to display a dynamic "back to top"
 
 You may now include the clock anywhere on your concrete5 website;
 if you want to display it on any page, add it into a _GlobalArea_
-
-Demo on the website of my mountain farm: [radeff.net/ravieres2/](http://radeff.net/ravieres2/ "site des Ravières, chalet d'alpage")
 
 -------------
 > bak2top is distributed in the hope that it will be useful, 
